@@ -14,7 +14,7 @@ public class App
 	/**sample method*/
 	public void sample()
 	{
-	    System.out.println("testing by arun");
+	    System.out.println("testing by arun")
 		}
 		
 }
